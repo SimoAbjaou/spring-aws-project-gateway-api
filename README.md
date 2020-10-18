@@ -1,0 +1,1 @@
+# spring-aws-project-gateway-api
